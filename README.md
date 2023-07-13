@@ -20,4 +20,4 @@ Your goal is to build a spam detector, that can automatically flag spams as they
 
 ## Certification information
 * Email address: delphinecesar@gmail.com
-* Video presentation: https://share.vidyard.com/watch/ehtotYvqCj4prZtxC8uo3R?
+* Video presentation: https://share.vidyard.com/watch/ehtotYvqCj4prZtxC8uo3R
