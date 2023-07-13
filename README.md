@@ -1,5 +1,9 @@
 # Bloc 4: AT&T Spam Detector
 
+## Certification information
+* Email address: delphinecesar@gmail.com
+* Video presentation: https://share.vidyard.com/watch/ehtotYvqCj4prZtxC8uo3R
+
 ## Aknowledgements
 
 I would like to thank Dalanda Diallo who helped me on this project
@@ -17,7 +21,3 @@ AT\&T has been able to manually flag spam messages for a time, but they are look
 ## Goals 🎯
 
 Your goal is to build a spam detector, that can automatically flag spams as they come based solely on the sms' content.
-
-## Certification information
-* Email address: delphinecesar@gmail.com
-* Video presentation: https://share.vidyard.com/watch/ehtotYvqCj4prZtxC8uo3R
